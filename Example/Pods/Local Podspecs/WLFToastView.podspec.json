@@ -1,0 +1,22 @@
+{
+  "name": "WLFToastView",
+  "version": "1",
+  "summary": "nininininin",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nwgdegitHub/WLFToastView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuw_flexi@163.com": "liuw_flexi@163.com"
+  },
+  "source": {
+    "git": "https://github.com/nwgdegitHub/WLFToastView.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WLFToastView/Classes/**/*"
+}

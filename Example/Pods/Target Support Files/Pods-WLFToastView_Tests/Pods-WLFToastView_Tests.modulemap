@@ -1,0 +1,6 @@
+framework module Pods_WLFToastView_Tests {
+  umbrella header "Pods-WLFToastView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

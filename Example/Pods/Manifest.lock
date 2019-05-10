@@ -1,0 +1,16 @@
+PODS:
+  - WLFToastView (1)
+
+DEPENDENCIES:
+  - WLFToastView (from `../`)
+
+EXTERNAL SOURCES:
+  WLFToastView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WLFToastView: e9fc31c513b7a67f06ebabc334fdca05e03318f5
+
+PODFILE CHECKSUM: 5dab794c77705429a7155418e5b5276f210b2c4e
+
+COCOAPODS: 1.7.0.rc.1

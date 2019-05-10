@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WLFToastView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of WLFToastView.'
+  s.version          = '1'
+  s.summary          = 'nininininin'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liuw_flexi@163.com/WLFToastView'
+  s.homepage         = 'https://github.com/nwgdegitHub/WLFToastView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liuw_flexi@163.com' => 'liuw_flexi@163.com' }
-  s.source           = { :git => 'https://github.com/liuw_flexi@163.com/WLFToastView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nwgdegitHub/WLFToastView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
